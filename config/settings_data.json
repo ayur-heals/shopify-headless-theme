@@ -1,0 +1,24 @@
+{
+  "current": {
+    "storefront_hostname": "ayurheals.com",
+    "colors_accent_1": "#121212",
+    "colors_accent_2": "#30986c",
+    "checkout_logo_image": "shopify:\/\/shop_images\/AH.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_input_background_color_mode": "white",
+    "checkout_accent_color": "#30986c",
+    "checkout_button_color": "#30986c",
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "6892056713484685256": {
+        "type": "shopify:\/\/apps\/otpless-whatsapp-login\/blocks\/app-embed\/162dde26-f1cf-4a86-b869-e45e8c58e28e",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}
