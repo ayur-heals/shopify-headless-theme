@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "storefront_hostname": "ayurheals.com",
@@ -13,8 +22,8 @@
 
     ],
     "blocks": {
-      "6892056713484685256": {
-        "type": "shopify:\/\/apps\/otpless-whatsapp-login\/blocks\/app-embed\/162dde26-f1cf-4a86-b869-e45e8c58e28e",
+      "8683750158612318968": {
+        "type": "shopify:\/\/apps\/nector-loyalty-rewards\/blocks\/floating_widget\/1c1144ea-67f0-4232-93c6-0d8fbb8c8d3a",
         "disabled": false,
         "settings": {
         }
